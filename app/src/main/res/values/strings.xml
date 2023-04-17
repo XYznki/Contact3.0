@@ -17,4 +17,8 @@
     <string name="delete_record">Are you sure you want to delete?</string>
     <string name="delete">Delete</string>
     <string name="edit">Edit</string>
+    <string name="url_server">https://travelinkmad.000webhostapp.com/api/</string>
+    <string name="url_read">user/read.php</string>
+    <string name="url_create">user/create.php</string>
+    <string name="action_download">Download</string>
 </resources>
